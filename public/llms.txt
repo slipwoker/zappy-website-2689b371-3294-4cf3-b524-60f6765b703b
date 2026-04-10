@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מאור שיפוצים מתמחה בצביעת דירות, שיפוץ חדר אמבטיה קטן, צביעת חזית בניין מקצועית ועוד. פתרון שלם לכל צרכי השיפוץ שלכם — איכות ללא פשרות, תוצאות שמדברות בעד עצמן.
+
+### שירותים
+https://example.com/services
+צביעת חדר מדרגות, טיח שליכט, שיפוץ חדר אמבטיה קטן, ריצוף, שיקום נזקי שריפה ועוד — מאור שיפוצים מציע מגוון שלם של שירותים מקצועיים לדירה ולבית שלכם.
+
+### אודות
+https://example.com/about
+מאור שיפוצים הוא שם נרדף לאמינות, ניסיון ומחויבות לאיכות בצביעת חזית בניין מקצועית ושיפוצי פנים. הכירו את הצוות שהפך מאות דירות לבתים מושלמים.
+
+### צור קשר
+https://example.com/contact
+רוצים לשפץ את הדירה? צרו קשר עם מאור שיפוצים לייעוץ חינם והצעת מחיר לצביעת דירות, צביעת חדר מדרגות ושאר שירותי השיפוץ. נחזור אליכם במהירות!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
